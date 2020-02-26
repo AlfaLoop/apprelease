@@ -1,8 +1,13 @@
 {
   "win32-x64-prod": {
     "readme": "test release",
-    "update": "",
-    "install": "",
+    "update": "https://github.com/AlfaLoop/apprelease/releases/download/alfaone-win-v0.0.1-prerelease",
+    "install": "https://github.com/AlfaLoop/apprelease/releases/download/alfaone-win-v0.0.1-prerelease/vuetronFongniaoVending.Setup.0.0.1.exe",
+    "version": "0.0.1"
+  },
+  "linux-armv7l-prod": {
+    "update": "https://github.com/AlfaLoop/apprelease/releases/download/alfaone-rpi-v0.0.1-prerelease/vuetronFongniaoVending-0.0.1-armv7l.AppImage",
+    "install": "https://github.com/AlfaLoop/apprelease/releases/download/alfaone-rpi-v0.0.1-prerelease/vuetronFongniaoVending-0.0.1-armv7l.AppImage",
     "version": "0.0.1"
   }
 }
