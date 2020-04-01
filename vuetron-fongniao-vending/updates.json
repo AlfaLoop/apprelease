@@ -1,8 +1,8 @@
 {
   "win32-x64-prod": {
-    "update": "https://github.com/AlfaLoop/apprelease/releases/download/win32-x64-prod-v0.0.2",
-    "install": "https://github.com/AlfaLoop/apprelease/releases/download/win32-x64-prod-v0.0.2/vuetronFongniaoVending.Setup.0.0.2.exe",
-    "version": "0.3.0"
+    "update": "https://github.com/AlfaLoop/apprelease/releases/download/win32-x64-prod-v0.6.2",
+    "install": "https://github.com/AlfaLoop/apprelease/releases/download/win32-x64-prod-v0.6.2/vuetronFongniaoVending.Setup.0.6.2.exe",
+    "version": "0.6.2"
   },
   "linux-armv7l-prod": {
     "update": "https://github.com/AlfaLoop/apprelease/releases/download/linux-armv7l-prod-v0.6.1/vuetronFongniaoVending-0.6.1-armv7l.AppImage",
