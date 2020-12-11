@@ -5,9 +5,9 @@
     "version": "0.8.8"
   },
   "linux-armv7l-prod": {
-    "update": "https://github.com/AlfaLoop/apprelease/releases/download/linux-armv7l-prod-v0.9.2/vuetronFongniaoVending-0.9.2-armv7l.AppImage",
-    "install": "https://github.com/AlfaLoop/apprelease/releases/download/linux-armv7l-prod-v0.9.2/vuetronFongniaoVending-0.9.2-armv7l.AppImage",
-    "version": "0.9.2",
-    "sha256": "e573b696103499001970bde4b2d1f3d7dccbc6ccc4ba9c7f5c646228d01e9970"
+    "update": "https://github.com/AlfaLoop/apprelease/releases/download/linux-armv7l-prod-v0.9.3/vuetronFongniaoVending-0.9.3-armv7l.AppImage",
+    "install": "https://github.com/AlfaLoop/apprelease/releases/download/linux-armv7l-prod-v0.9.3/vuetronFongniaoVending-0.9.3-armv7l.AppImage",
+    "version": "0.9.3",
+    "sha256": "062cff32e1037f7c4fa41224c3d614a37c2f1c2f2c3ab0ea8ffa63b0b1cde1c1"
   }
 }
