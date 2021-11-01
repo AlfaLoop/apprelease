@@ -1,0 +1,7 @@
+{
+  "win32-x64-prod": {
+    "update": "https://github.com/AlfaLoop/apprelease/releases/download/win32-x64-prod-v1.0.4",
+    "install": "https://github.com/AlfaLoop/apprelease/releases/download/win32-x64-prod-v1.0.4/AlfaOK2.Setup.1.0.4.exe",
+    "version": "1.0.4"
+  }
+}
