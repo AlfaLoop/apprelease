@@ -5,9 +5,9 @@
     "version": "1.0.6"
   },
   "linux-armv7l-prod": {
-    "update": "https://github.com/AlfaLoop/apprelease/releases/download/linux-armv7l-prod-v1.3.1/AlfaOK2-1.3.1-armv7l.AppImage",
-    "install": "https://github.com/AlfaLoop/apprelease/releases/download/linux-armv7l-prod-v1.3.1/AlfaOK2-1.3.1-armv7l.AppImage",
-    "version": "1.3.1",
-    "sha256": "cc9afde9f548e61a3cd6800e87eb4f3fbaff61b11800ea234e5c4efe147e42e2"
+    "update": "https://github.com/AlfaLoop/apprelease/releases/download/linux-armv7l-prod-v1.3.2/AlfaOK2-1.3.2-armv7l.AppImage",
+    "install": "https://github.com/AlfaLoop/apprelease/releases/download/linux-armv7l-prod-v1.3.2/AlfaOK2-1.3.2-armv7l.AppImage",
+    "version": "1.3.2",
+    "sha256": "69e643039e5255483317f0cdc9f381ab80f148ccad9e7ba62de4039160ac3046"
   }
 }
